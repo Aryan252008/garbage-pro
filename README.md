@@ -1,1 +1,1 @@
-# garbage-pro
+# CP-2
